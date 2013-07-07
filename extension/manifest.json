@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"version": "1.0",
+	"name": "DiS Recommended Spotify Player",
+	"description": "Embed Spotify player for Drowned In Sound recommended albums.",
+	"content_scripts": [
+		{
+			"matches": [
+				"http://drownedinsound.com/lists/recommended-records"
+			],
+			"js": [
+				"script.js"
+			]
+		}
+	]
+}

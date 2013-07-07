@@ -1,4 +1,1 @@
-chrome-drowned-in-sound
-=======================
-
-Chrome extension for tweaks to http://drownedinsound.com/
+Chrome extension, embeds a Spotify album player for each album in [Drowned In Sound's "Recommended Albums" list](http://drownedinsound.com/lists/recommended-records)
